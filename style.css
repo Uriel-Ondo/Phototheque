@@ -1,0 +1,147 @@
+
+body{
+    background-color: #67BE4B;
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:15%;
+    
+}
+#imag{
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 1px solid #f1f1f1;
+    adding: 20px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    background: #fff;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+form{
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 1px solid #f1f1f1;
+    adding: 20px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    background: #fff;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+/* Full-width inputs */
+input[type=text], input[type=password],input[type=email], input[type=file] {
+   width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Propriétés css pour le bouton submit */
+input[type=submit] {
+
+    background-color: #53af57;
+    color: white;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+
+     /* Espacé de 20px */
+    padding: 15px 20px;
+
+    /* Largeur de 100%*/
+    width: 100%;
+    border: 1px solid #53af57;
+
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+#Mos{
+    background-color: #53af57;
+    color: white;
+    border: 1 solid #53af57;;
+    cursor: pointer;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+
+    }
+#cen{
+   margin-right: 20%;
+   margin-left:25% ;
+   color: blue;
+}
+#fil{
+    color: blue;
+}
+}
+fieldset{
+    width: 80%%;
+     height: auto;
+     padding: 100px 100px;
+    
+}
+#icone{
+    padding-top: 10px;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#baner{
+    display: block;
+    margin: 0%;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+#acces{
+        margin-top: 29%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 1px;
+}
+#acc{
+    display: block;
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 37%;
+    margin-bottom: 10%;
+    border: none;
+    padding-bottom: 8%;
+
+}
+#cont{
+    padding-top: auto;
+    display: block;
+    margin: 1px;
+    margin-left: 46%;
+
+}
+#top{
+    color: blue;
+}
+#lien{
+    display: block;
+    position: absolute;
+    margin-top: 42%;
+    margin-left: 37%;
+    margin-bottom: 10%;
+    border: none;
+    padding-bottom: 8%;
+    color: blue;
+}
